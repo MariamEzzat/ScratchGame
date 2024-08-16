@@ -1,0 +1,11 @@
+org/example/Config$BonusSymbols.class
+org/example/ScratchGame.class
+org/example/Config$WinCombination.class
+org/example/Config$Symbol.class
+org/example/RewardCalculator.class
+org/example/Config$StandardSymbol.class
+org/example/Config$Probabilities.class
+org/example/ConfigLoader.class
+org/example/Config.class
+org/example/MatrixGenerator.class
+org/example/RewardCalculator$Result.class
